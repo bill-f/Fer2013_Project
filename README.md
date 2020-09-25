@@ -1,4 +1,4 @@
-<b>Emotion recognition using Tensorflow/ Keras / Colab</b>
+<h3>Emotion recognition using Tensorflow/ Keras / Colab</h3>
 
 The project uses the Kaggle Challenges in Representation Learning: Facial Expression Recognition Challenge dataset (FER2013). 
 
